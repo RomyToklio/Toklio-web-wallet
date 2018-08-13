@@ -24,7 +24,7 @@
   },
   "wallet_import" :
   {
-    "_comment": "if fee is 0, then importing is free. fee is in base 1e12, e.g., 0.1 xmr is 0.1 x 1e12 = 100000000000",
+    "_comment": "if fee is 0, then importing is free. fee is in base 1e12, e.g., 0.1 TOKL is 0.1 x 1e12 = 100000000000",
     "fee"     : 0,
     "testnet" :
     {

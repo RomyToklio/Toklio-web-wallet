@@ -22,14 +22,14 @@ to MyMonero. They include:
  - added support of testnet and stagenet networks, and mainnet without relying transactions
  - improved handling of mempool, coinbase, locked and unlocked transactions.
  - view only mode added.
- - private tx key given to a user which can be used to prove sending xmr to a recipient.
+ - private tx key given to a user which can be used to prove sending TOKL to a recipient.
  - Cross-Origin Resource Sharing (CORS) disabled.
  - transaction confirmation window added to double check tx details before its commited.
  - ability to select transaction priority.
  - legacy address + payment_id system replaced with integrated addresses for better privacy.
  - free, time based imports of recent transactions added.
  - new transaction details window.
- - sending xmr to a subaddress (not receiving nor generating subaddresses for now).
+ - sending TOKL to a subaddress (not receiving nor generating subaddresses for now).
 
 ## Live stagenet version
 
